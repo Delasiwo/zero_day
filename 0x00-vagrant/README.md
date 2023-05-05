@@ -1,1 +1,1 @@
-+ Linux
+New directory created successfully
